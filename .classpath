@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.core.contenttype_3.8.100.v20210910-0640.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.core.jobs_3.13.0.v20220512-1935.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.core.resources_3.17.0.v20220517-0751.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.core.runtime_3.25.0.v20220506-1157.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.equinox.common_3.16.100.v20220315-2327.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.equinox.preferences_3.10.0.v20220503-1634.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.jdt.core_3.30.0.v20220524-1333.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.osgi_3.18.0.v20220516-2155.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.osgi.service.prefs_1.1.2.202109301733.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asuna/.p2/pool/plugins/org.eclipse.text_3.12.100.v20220506-1404.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

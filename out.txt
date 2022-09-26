@@ -1,0 +1,161 @@
+==========Testing Begin==========
+Child (package) {
+List (annotations){
+}
+Child (name) {
+Child (qualifier) {
+Child (qualifier) {
+identifier (com)
+var (false)
+}
+Child (name) {
+identifier (ast)
+var (false)
+}
+}
+Child (name) {
+identifier (testPro)
+var (false)
+}
+}
+}
+List (imports){
+static (false)
+Child (name) {
+Child (qualifier) {
+Child (qualifier) {
+identifier (java)
+var (false)
+}
+Child (name) {
+identifier (io)
+var (false)
+}
+}
+Child (name) {
+identifier (FileNotFoundException)
+var (false)
+}
+}
+onDemand (false)
+static (false)
+Child (name) {
+Child (qualifier) {
+Child (qualifier) {
+identifier (java)
+var (false)
+}
+Child (name) {
+identifier (io)
+var (false)
+}
+}
+Child (name) {
+identifier (PrintStream)
+var (false)
+}
+}
+onDemand (false)
+}
+List (types){
+List (modifiers){
+keyword (public)
+}
+interface (false)
+Child (name) {
+identifier (printTest)
+var (false)
+}
+List (typeParameters){
+}
+List (superInterfaceTypes){
+}
+List (bodyDeclarations){
+List (modifiers){
+keyword (public)
+keyword (static)
+}
+constructor (false)
+List (typeParameters){
+}
+Child (returnType2) {
+List (annotations){
+}
+primitiveTypeCode (void)
+}
+Child (name) {
+identifier (main)
+var (false)
+}
+List (parameters){
+List (modifiers){
+}
+Child (type) {
+Child (elementType) {
+List (annotations){
+}
+Child (name) {
+identifier (String)
+var (false)
+}
+}
+List (dimensions){
+List (annotations){
+}
+}
+}
+List (varargsAnnotations){
+}
+varargs (false)
+Child (name) {
+identifier (args)
+var (false)
+}
+List (extraDimensions2){
+}
+}
+List (extraDimensions2){
+}
+List (thrownExceptionTypes){
+List (annotations){
+}
+Child (name) {
+identifier (FileNotFoundException)
+var (false)
+}
+}
+Child (body) {
+List (statements){
+Child (expression) {
+Child (expression) {
+identifier (System)
+var (false)
+}
+List (typeArguments){
+}
+Child (name) {
+identifier (setOut)
+var (false)
+}
+List (arguments){
+List (typeArguments){
+}
+Child (type) {
+List (annotations){
+}
+Child (name) {
+identifier (PrintStream)
+var (false)
+}
+}
+List (arguments){
+escapedValue ("out.txt")
+}
+}
+}
+}
+}
+compactConstructor (false)
+}
+}
+==========Testing   End==========
